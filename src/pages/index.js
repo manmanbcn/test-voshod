@@ -9,7 +9,7 @@ const IndexPage = () => {
     router.push('/list/1');
   }, [router]);
 
-  return null; // или компонент загрузки
+  return null;
 };
 
 
